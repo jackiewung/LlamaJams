@@ -29,6 +29,6 @@
 ```
 npm install
 bower install
-webpack
+nodemon server.js
 ```
 
