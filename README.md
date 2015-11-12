@@ -11,8 +11,7 @@
 
 1. [Usage](#usage)
 1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
+1. [Installing Dependencies](#dependencies)
 1. [Team](#team)
 
 ## Usage
