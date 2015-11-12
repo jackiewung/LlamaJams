@@ -16,7 +16,7 @@
 
 ## Usage
 
-> This web application allows users to create an event to help organize and manage it.
+> This web application allows users to collaborate on a playlist in real-time.
 
 ## Requirements
 
