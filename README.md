@@ -1,9 +1,6 @@
 # LlamaJams
 > *"Lets start a Jam!"*
 
-## HomePage
-### [http://i-plan.herokuapp.com](http://i-plan.herokuapp.com)
-
 ## Team
 
   - __Product Owner__: [Jackie Wung](https://github.com/jackiewung)
